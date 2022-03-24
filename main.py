@@ -1,6 +1,6 @@
 from turtle import*
 def trait(longueur_cote):
-    if longueur_cote<10:
+    if longueur_cote<5:
         forward(longueur_cote/3)
         left(360/-6)
         forward(longueur_cote/3)
